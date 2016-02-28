@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">FacebookLoginDemo</string>
-    <string name="facebook_app_id">1729514187283490</string>
+    <string name="facebook_app_id">YOU_APP_ID</string>
 
 
 </resources>
